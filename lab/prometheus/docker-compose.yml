@@ -1,0 +1,5 @@
+# Устаревший путь: используйте docker compose из папки lab/
+#   cd lab && docker compose up -d --build
+
+include:
+  - path: ../docker-compose.yml

@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="782221b8-e3b5-4981-bc5b-e187c01d4eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProjectLabOnit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/app/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/prometheus/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/prometheus/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/prometheus/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/prometheus/prometheus.yml" afterDir="false" />
+    <list default="true" id="782221b8-e3b5-4981-bc5b-e187c01d4eb5" name="Changes" comment="[Fix] docker-run">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Markdown&quot;,
-      &quot;GitIgnore&quot;,
-      &quot;yaml&quot;,
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown",
+      "GitIgnore",
+      "yaml",
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\diana\PycharmProjects\pythonProjectLabOnit\lab\prometheus" />
@@ -85,6 +74,27 @@
       <option name="presentableId" value="Default" />
       <updated>1791125530061</updated>
     </task>
+    <task id="LOCAL-00001" summary="[Fix] docker-run">
+      <option name="closed" value="true" />
+      <created>1791132082314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791132082314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Fix] docker-run">
+      <option name="closed" value="true" />
+      <created>1791132113529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791132113529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Fix] docker-run" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Fix] docker-run" />
   </component>
 </project>
